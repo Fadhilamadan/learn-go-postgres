@@ -15,6 +15,9 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
+# Env
+.env
+
 # Node
 node_modules
 package-lock.json
